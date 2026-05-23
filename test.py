@@ -1,4 +1,4 @@
 def test():
-    print("teste")
+    print("teste 2")
 
 test()
